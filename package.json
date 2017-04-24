@@ -1,0 +1,24 @@
+{
+  "name": "string-to-buffer",
+  "version": "1.0.0",
+  "description": "Convert a string to a Buffer across Node versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strugee/node-string-to-buffer.git"
+  },
+  "keywords": [
+    "string",
+    "buffer",
+    "convert"
+  ],
+  "author": "Alex Jordan <alex@strugee.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strugee/node-string-to-buffer/issues"
+  },
+  "homepage": "https://github.com/strugee/node-string-to-buffer#readme"
+}
