@@ -1,6 +1,6 @@
 {
   "name": "string-to-buffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a string to a Buffer across Node versions",
   "main": "index.js",
   "scripts": {
