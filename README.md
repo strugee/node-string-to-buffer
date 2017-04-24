@@ -2,6 +2,8 @@
 
 Convert a string to a Buffer across Node versions
 
+See also [to-buffer](https://www.npmjs.com/package/to-buffer) which is similar, but does slightly more
+
 ## Install
 
 ```
