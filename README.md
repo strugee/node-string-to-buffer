@@ -23,7 +23,7 @@ Supports Node 0.10+, may support earlier versions too.
 
 ## Author
 
-Alex Jordan <alex@strugee.net>
+AJ Jordan <alex@strugee.net>
 
 ## License
 
