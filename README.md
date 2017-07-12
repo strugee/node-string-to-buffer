@@ -1,5 +1,7 @@
 # node-string-to-buffer
 
+[![Build Status](https://travis-ci.org/strugee/node-string-to-buffer.svg?branch=master)](https://travis-ci.org/strugee/node-string-to-buffer)
+
 Convert a string to a Buffer across Node versions
 
 See also [to-buffer](https://www.npmjs.com/package/to-buffer) which is similar, but does slightly more
