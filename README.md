@@ -19,7 +19,7 @@ stringToBuffer('foobar'); // Buffer
 
 ## Version support
 
-Supports Node 0.10+, may support earlier versions too.
+Supports Node 4+, may support earlier versions too.
 
 ## Author
 
