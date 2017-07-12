@@ -4,7 +4,7 @@
   "description": "Convert a string to a Buffer across Node versions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "perjury test.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/strugee/node-string-to-buffer/issues"
   },
-  "homepage": "https://github.com/strugee/node-string-to-buffer#readme"
+  "homepage": "https://github.com/strugee/node-string-to-buffer#readme",
+  "devDependencies": {
+    "perjury": "^0.4.3"
+  }
 }
