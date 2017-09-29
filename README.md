@@ -6,7 +6,7 @@
 
 Convert a string to a Buffer across Node versions
 
-See also [to-buffer](https://www.npmjs.com/package/to-buffer) which is similar, but does slightly more
+See also [to-buffer](https://www.npmjs.com/package/to-buffer), which is similar but does slightly more, and [safe-buffer](https://www.npmjs.com/package/safe-buffer), which is a complete replacement for `Buffer` which polyfills the safe behavior on old Node versions
 
 ## Install
 
