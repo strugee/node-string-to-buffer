@@ -17,11 +17,9 @@ vows.describe('string-to-buffer module').addBatch({
 				return stringToBuffer('Hello, world!');
 			},
 			'we get a buffer back': function(err, buf) {
-debugger;
 				assert.ok(Buffer.isBuffer(buf));
 			},
 			'the buffer has the right data': function(err, buf) {
-debugger;
 				assert.equal(buf.toString(), 'Hello, world!');
 			}
 		}
