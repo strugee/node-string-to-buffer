@@ -1,5 +1,7 @@
 # node-string-to-buffer
 
+**This module is deprecated** because Node 4 is end-of-life, so all currently-supported Node versions support `Buffer.from()`. Use that directly instead.
+
 [![Build Status](https://travis-ci.org/strugee/node-string-to-buffer.svg?branch=master)](https://travis-ci.org/strugee/node-string-to-buffer)
 [![Coverage Status](https://coveralls.io/repos/github/strugee/node-string-to-buffer/badge.svg?branch=master)](https://coveralls.io/github/strugee/node-string-to-buffer?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/strugee/node-string-to-buffer.svg)](https://greenkeeper.io/)

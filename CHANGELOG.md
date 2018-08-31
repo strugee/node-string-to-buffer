@@ -1,6 +1,6 @@
 # `string-to-buffer` change log
 
-`string-to-buffer` adheres to [Semantic Versioning](http://semver.org/).
+`string-to-buffer` adheres to [Semantic Versioning](http://semver.org/). This module is deprecated and will not receive updates in the future.
 
 ## 1.1.0 - 2017-07-11
 
